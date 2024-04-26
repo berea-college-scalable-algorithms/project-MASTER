@@ -22,14 +22,15 @@ put 2-3 small examples here
 - Constraint 1
 - Constraint 2
 
-## Follow-up
-
 
 ### Topics
 
+- binary tree
+- depth first search
 
 ### Level 
 
+- Easy
 
 ## Code (stub to show parameters, return type, and definitions)
 
