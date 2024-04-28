@@ -1,5 +1,13 @@
 # Project Title
 
+## Authors
+
+ - name 1 (with optional link to github profiles)
+ - name 2 (with optional link to github profiles)
+ - name 3 (with optional link to github profiles)
+
+## Project Statement
+
 Project statement should be here.
 
 ![sample image](sample-image.png "Sample Image")
@@ -28,7 +36,7 @@ put 2-3 small examples here
 - binary tree
 - depth first search
 
-### Level 
+### Level
 
 - Easy
 
@@ -51,3 +59,15 @@ class Solution {
 `nums = [2,7,11,15]`
 
 `target = 9`
+
+## Solutions
+
+- Include two (or more) solutions, one in Java and one in another language.
+- Each **must** explain in detail how to run it (where it will run as presented.)
+- The code must include all needed libraries and be well-documented with commenting.
+
+[Java](javasolution.java)
+
+[Python](pythonsolution.py)
+
+[C++](cppsolution.cpp)
