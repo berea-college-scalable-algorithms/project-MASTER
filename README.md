@@ -71,3 +71,7 @@ class Solution {
 [Python](pythonsolution.py)
 
 [C++](cppsolution.cpp)
+
+## References (for all ideas not our own)
+
+- [Reference 1](link to reference 1)
