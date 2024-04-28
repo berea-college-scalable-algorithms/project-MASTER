@@ -43,7 +43,7 @@ put 2-3 small examples here
 ## Code (stub to show parameters, return type, and definitions)
 
 ```java
-\\ put your Java stub code here
+// put your Java stub code here
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         // code here
