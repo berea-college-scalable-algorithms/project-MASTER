@@ -72,6 +72,10 @@ class Solution {
 
 [C++](cppsolution.cpp)
 
+## Video on (add project title here)
+
+To deepen understanding of (add project topic here) see [Add title of Video here](Add full URL to video here)
+
 ## References (for all ideas not our own)
 
 - [Reference 1](link to reference 1)
