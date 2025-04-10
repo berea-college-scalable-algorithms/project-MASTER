@@ -71,7 +71,7 @@ class Solution {
 
 [C++](cppsolution.cpp)
 
-[Complexity Analysis](complexity.md)]
+[Complexity Analysis](complexity.md)
 
 ## Video on (add project title here)
 
